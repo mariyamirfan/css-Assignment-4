@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.topsite{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    height: 90%;
+}
+.form{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 800px;
+    background: #fff;
+    padding: 35px 65px 35px 35px;
+    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.1);
+}
+.section2{
+    background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(video-bg.png.webp);
+    background-size: cover;
+    background-size: cover;
+    padding: 50px 10px;
+    position: relative;
+}  
+.section3{
+    background-color: rgb(223, 223, 223);
+}
+.section4{
+    background-color: #0b1a2a;
+}
